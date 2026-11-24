@@ -1,4 +1,4 @@
-# Gestão ESTG — Repositório académico
+# Gestão ESTG: Repositório académico
 
 Este repositório contém material fictício criado exclusivamente para um trabalho universitário sobre segurança da informação e motores de pesquisa (Google Dorks).
 
